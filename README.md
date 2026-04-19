@@ -88,3 +88,6 @@ This project builds a **smart monitoring and prediction system** that:
 
 ---
 
+### Dashboard : http://10.81.55.138:8501
+
+
